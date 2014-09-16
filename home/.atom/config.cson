@@ -14,3 +14,7 @@
     'monokai'
   ]
 'autocomplete-plus': {}
+'go-plus':
+  'formatOnSave': false
+'autocomplete': {}
+'git-plus': {}
